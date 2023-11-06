@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <nav>
+        <ul>
+            <li><a href="milestone5.html">Home</a></li>
+            <li><a href="milestone5page2.html">Restaurant Reviews</a></li>
+            <li><a href="milestone5page3.html">Hottest Spots</a></li>
+        </ul>
+    </nav>
+    <title>Syracuse Restaurant Reviews</title>
+</head>
+<body>
+    <header>
+        <h1>Hottest Spots</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Hottest Spots in Syracuse</h2>
+            <p>Pastabilities</p>
+            <p>Faegan's Cafe & Pub</p>
+            <p>Rachel's</p>
+        </section>
+    </main>
+</body>
+</html>
