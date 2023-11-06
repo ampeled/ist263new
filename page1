@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <nav>
+        <ul>
+            <li><a href="milestone5.html">Home</a></li>
+            <li><a href="milestone5page2.html">Restaurant Reviews</a></li>
+            <li><a href="milestone5page3.html">Hottest Spots</a></li>
+        </ul>
+    </nav>
+    <title>Syracuse Restaurant Reviews</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Syracuse Restaurant Reviews</h1>
+    </header>
+    
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>Welcome to our website dedicated to exploring and reviewing the best restaurants in Syracuse. We provide detailed reviews and recommendations to help you discover the culinary delights of our city.</p>
+        </section>
+    </main>
+</body>
+</html>
